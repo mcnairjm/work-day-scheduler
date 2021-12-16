@@ -10,4 +10,6 @@ To allow someone to plan the tasks throughout their workday.
 Made by John McNair
 
 # Website
-https://mcnairjm.github.io/code-quiz/
+https://mcnairjm.github.io/work-day-scheduler/
+
+
